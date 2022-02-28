@@ -1,5 +1,5 @@
 import './App.css';
-import MainComponent from './components/header/MainComponent';
+import MainComponent from './components/MainComponent';
 
 
 
